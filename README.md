@@ -1,27 +1,136 @@
-<h1 align="center">Hi 👋, I'm Dulakshana</h1>
-<h3 align="center">A Python developer from Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulakshana&label=Profile%20views&color=0e75b6&style=flat" alt="dulakshana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulakshana" alt="dulakshana" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **about AI**
-
-- 📫 How to reach me **domindud6@gmail.com**
-
-- ⚡ Fun fact **I think I can debug my life like I debug my code**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif" width="350"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulakshana&show_icons=true&locale=en&layout=compact" alt="dulakshana" /></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F2b3F2b3F2b3F2b3F2/giphy.gif" width="100%"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulakshana&show_icons=true&locale=en" alt="dulakshana" /></p>
+# 🌸 こんにちは, I’m [DULAKSHANA]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulakshana&" alt="dulakshana" /></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VqZ2V6b3V4b2V4b2V4b2V4/giphy.gif" width="100%"/>
+</p>
+
+> *“In the rain of data, I build intelligence.”* 🌧️🧠
+
+---
+
+## 🧠 About Me
+
+* 🐍 Python Developer
+* 🤖 Machine Learning & Deep Learning
+* 🧬 AI / GANs / Transformers
+* 🎌 Anime lover
+* ⚡ Always learning & building
+
+---
+
+## 🌧️ Coding in the Rain
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+</p>
+
+> *“Even when the world is dark… I keep coding.”* ☔💻
+
+---
+
+## 💫 Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## ⚔️ Skills Power Level
+
+```text id="skills"
+Python:            ██████████ 100%
+Machine Learning:  █████████░ 90%
+Deep Learning:     █████████░ 90%
+GANs:              ███████░░░ 75%
+Transformers:      ███████░░░ 70%
+```
+
+---
+
+## 👩‍💻 Coding Partner
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+</p>
+
+> *“One programmer. One dream. Infinite possibilities.”* 💖
+
+---
+
+## 🚀 Projects
+
+* 🎨 AI Image Generator (GANs)
+* 🧠 Deep Learning Models
+* 🤖 AI Chatbot
+* 📊 Machine Learning Projects
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌙 Currently Learning
+
+* 🧠 Transformers & LLMs
+* 🎯 Advanced GANs
+* ⚙️ MLOps & Deployment
+* 🚀 Real-world AI systems
+
+---
+
+## 🧩 Code Mindset
+
+```python id="mindset"
+while True:
+    learn()
+    build()
+    improve()
+```
+
+---
+
+## 🌸 Connect With Me
+
+* 💻 GitHub: https://github.com/DULAKSHANA404
+* 📧 Email: domindud6@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F2b3F2b3F2b3F2b3F2/giphy.gif" width="100%"/>
+</p>
+
+> *“A programmer’s journey never ends…”* 🌌
+
+---
