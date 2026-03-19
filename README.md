@@ -116,7 +116,7 @@ while True:
 
 ## 🌸 Connect with Me
 
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 💻 GitHub: https://github.com/DULAKSHANA404
 * 🌐 LinkedIn: (your link)
 * 📧 Email: (optional)
 
