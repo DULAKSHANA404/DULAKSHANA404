@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F2b3F2b3F2b3F2b3F2/giphy.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 </p>
 
 # 🌸 こんにちは, I’m [DULAKSHANA]
@@ -30,19 +22,6 @@
 
 ---
 
-## 🌧️ Coding in the Rain
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
-
-> *“Even when the world is dark… I keep coding.”* ☔💻
-
----
 
 ## 💫 Tech Stack
 
@@ -83,7 +62,6 @@ Transformers:      ███████░░░ 70%
 
 * 🎨 AI Image Generator (GANs)
 * 🧠 Deep Learning Models
-* 🤖 AI Chatbot
 * 📊 Machine Learning Projects
 
 ---
@@ -91,11 +69,11 @@ Transformers:      ███████░░░ 70%
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DULAKSHANA404&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DULAKSHANA404&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -134,3 +112,7 @@ while True:
 > *“A programmer’s journey never ends…”* 🌌
 
 ---
+<p align="center">
+  <img src="https://media1.tenor.com/m/o3ZsX1aTwBsAAAAC/ahagon-new-game.gif" width="100%"/>
+</p>
+
