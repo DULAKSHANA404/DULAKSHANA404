@@ -1,12 +1,11 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
+</p>
+<p align="center">
   <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 </p>
 
 # 🌸 こんにちは, I’m [DULAKSHANA]
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VqZ2V6b3V4b2V4b2V4b2V4/giphy.gif" width="100%"/>
-</p>
 
 > *“In the rain of data, I build intelligence.”* 🌧️🧠
 
