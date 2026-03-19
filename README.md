@@ -1,4 +1,10 @@
 <!-- ANIME HERO README -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l6Z2R6Z2R6Z2R6Z2R6Z2R6Z2R6/giphy.gif" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R4c3l5bG5nZ2V4bWJ6Z2J3b2V3/giphy.gif" width="400"/>
+</p>
 # Yoo
 # 🌸 こんにちは, I’m [Dulakshana]
 
@@ -73,14 +79,12 @@ Transformers:      ███████░░░ 70%
 
 ---
 
-## 🌙 Waifu Energy Zone (Anime Girl Vibes)
+## 🌙 Waifu Energy Zone
 
 <p align="center">
 <img src="https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif" width="250"/>
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
-
-> *“Cute but powerful.”* 💖
 
 ---
 
