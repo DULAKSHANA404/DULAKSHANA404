@@ -1,135 +1,27 @@
-<!-- ANIME HERO README -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l6Z2R6Z2R6Z2R6Z2R6Z2R6Z2R6/giphy.gif" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R4c3l5bG5nZ2V4bWJ6Z2J3b2V3/giphy.gif" width="400"/>
-</p>
-# Yoo
-# 🌸 こんにちは, I’m [Dulakshana]
+<h1 align="center">Hi 👋, I'm Dulakshana</h1>
+<h3 align="center">A Python developer from Sri Lanka</h3>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2V1b2V6bG1oN2d6ZzZ3ZzZ3ZzZ3ZzZ3ZzZ3/giphy.gif" width="100%" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulakshana&label=Profile%20views&color=0e75b6&style=flat" alt="dulakshana" /> </p>
 
-> *“In a world of bugs, I became the debugger.”* 🗡️
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulakshana" alt="dulakshana" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🧠 About Me (Anime Protagonist Arc)
+- 🌱 I’m currently learning **about AI**
 
-* 🐍 Python Sensei
-* 🤖 Machine Learning & Deep Learning User
-* 🧬 AI Explorer (GANs, Transformers, LLMs)
-* 🎌 Anime addicted coder
-* 🌙 Night owl programmer
-* ⚡ Training my brain like a neural network
+- 📫 How to reach me **domindud6@gmail.com**
 
----
+- ⚡ Fun fact **I think I can debug my life like I debug my code**
 
-## 💫 Tech Skills (My Jutsu)
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## ⚔️ Skills Power Level
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulakshana&show_icons=true&locale=en&layout=compact" alt="dulakshana" /></p>
 
-```text id="anime_power"
-Python:            ██████████ 100%
-Machine Learning:  █████████░ 90%
-Deep Learning:     █████████░ 90%
-GANs:              ███████░░░ 75%
-Transformers:      ███████░░░ 70%
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulakshana&show_icons=true&locale=en" alt="dulakshana" /></p>
 
----
-
-## 🎨 Anime Mode ON
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JrZ2JrZ2JrZ2JrZ2JrZ2Jr/giphy.gif" width="300" />
-
-> *“Even the smallest code can change the world.”* ✨
-
----
-
-## 🚀 Projects (My Anime Arc)
-
-* 🎨 **GAN Image Generator** → Creating anime-style images
-* 🧠 **Deep Learning Models** → Training neural beasts
-* 🤖 **AI Chatbot** → My own AI companion
-* 📊 **ML Projects** → Predicting the future like a fortune teller
-
----
-
-## 📈 GitHub Stats (My Battle Record)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌙 Waifu Energy Zone
-
-<p align="center">
-<img src="https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif" width="250"/>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
-</p>
-
----
-
-## 📚 Currently Training (Like a Training Arc)
-
-* 🧠 Transformers & LLMs
-* 🎯 Advanced GANs
-* ⚙️ MLOps & Deployment
-* 🚀 Building real AI systems
-
----
-
-## 🎯 My Final Goal (Legend Arc)
-
-* Become AI Master 🧠
-* Build world-class AI products 🌍
-* Contribute to open source ⚡
-* Create my own AI empire 👑
-
----
-
-## 🧩 Code Like a Ninja
-
-```python id="anime_code"
-while True:
-    learn()
-    build()
-    improve()
-    repeat()
-```
-
----
-
-## 🌸 Connect with Me
-
-* 💻 GitHub: https://github.com/DULAKSHANA404
-* 🌐 LinkedIn: (your link)
-* 📧 Email: (optional)
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V5ZzZyZ2V5ZzZyZ2V5ZzZy/giphy.gif" width="100%" />
-</p>
-
-> *“A programmer's journey never ends...”* 🌌
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulakshana&" alt="dulakshana" /></p>
