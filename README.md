@@ -1,8 +1,6 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
+  <img src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif"/>
 </p>
 
 # 🌸 こんにちは, I’m [DULAKSHANA]
@@ -14,6 +12,7 @@
 ## 🧠 About Me
 
 * 🐍 Python Developer
+* 💚 From Sri Lanka
 * 🤖 Machine Learning & Deep Learning
 * 🧬 AI / GANs / Transformers
 * 🎌 Anime lover
@@ -44,16 +43,6 @@ Deep Learning:     █████████░ 90%
 GANs:              ███████░░░ 75%
 Transformers:      ███████░░░ 70%
 ```
-
----
-
-## 👩‍💻 Coding Partner
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
-
-> *“One programmer. One dream. Infinite possibilities.”* 💖
 
 ---
 
@@ -102,16 +91,10 @@ while True:
 * 💻 GitHub: https://github.com/DULAKSHANA404
 * 📧 Email: domindud6@gmail.com
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F2b3F2b3F2b3F2b3F2/giphy.gif" width="100%"/>
-</p>
-
-> *“A programmer’s journey never ends…”* 🌌
 
 ---
 <p align="center">
   <img src="https://media1.tenor.com/m/o3ZsX1aTwBsAAAAC/ahagon-new-game.gif" width="100%"/>
 </p>
 
+> *“A programmer’s journey never ends…”* 🌌
