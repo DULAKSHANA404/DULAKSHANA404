@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif"/>
 </p>
 
-# 🌸 こんにちは, I’m [DULAKSHANA]
+# 🌸 私のソウルソサエティへようこそ, I’m [DULAKSHANA]
 
 > *“In the rain of data, I build intelligence.”* 🌧️🧠
 
