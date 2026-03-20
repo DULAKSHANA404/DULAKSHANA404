@@ -15,7 +15,6 @@
 * 💚 From Sri Lanka
 * 🤖 Machine Learning & Deep Learning
 * 🧬 AI / GANs / Transformers
-* 🎌 Anime lover
 * ⚡ Always learning & building
 
 ---
