@@ -1,11 +1,9 @@
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif"/>
+  <img src="https://media1.tenor.com/m/Xf_PZVtHpSgAAAAC/anime-typing.gif width="100% "/>
 </p>
 
 # 🌸 私のソウルソサエティへようこそ, I’m DULAKSHANA
-
-> *“In the rain of data, I build intelligence.”* 🌧️🧠
 
 ---
 
@@ -33,26 +31,6 @@
 
 ---
 
-## ⚔️ Skills Power Level
-
-```text id="skills"
-Python:            ██████████ 100%
-Machine Learning:  █████████░ 90%
-Deep Learning:     █████████░ 90%
-GANs:              ███████░░░ 75%
-Transformers:      ███████░░░ 70%
-```
-
----
-
-## 🚀 Projects
-
-* 🎨 AI Image Generator (GANs)
-* 🧠 Deep Learning Models
-* 📊 Machine Learning Projects
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -62,26 +40,6 @@ Transformers:      ███████░░░ 70%
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DULAKSHANA404&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-## 🌙 Currently Learning
-
-* 🧠 Transformers & LLMs
-* 🎯 Advanced GANs
-* ⚙️ MLOps & Deployment
-* 🚀 Real-world AI systems
-
----
-
-## 🧩 Code Mindset
-
-```python id="mindset"
-while True:
-    learn()
-    build()
-    improve()
-```
 
 ---
 
