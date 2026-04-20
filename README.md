@@ -95,5 +95,3 @@ while True:
 <p align="center">
   <img src="https://media1.tenor.com/m/o3ZsX1aTwBsAAAAC/ahagon-new-game.gif" width="100%"/>
 </p>
-
-> *“A programmer’s journey never ends…”* 🌌
