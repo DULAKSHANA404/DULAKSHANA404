@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/anime-typing-gif-14680553.gif" width="100%">
+  <img src="https://tenor.com/view/anime-typing-gif-14680553.gif" width="50%">
 </p>
 
 <h1 align="center">Hello, I'm Dulakshana 👋</h1>
