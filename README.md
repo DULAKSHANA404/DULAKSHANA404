@@ -60,11 +60,11 @@ My focus is on neural networks, especially generative models like GANs, and I ex
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DULAKSHANA404&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DULAKSHANA404&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DULAKSHANA404&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DULAKSHANA404&layout=compact&theme=tokyonight" />
 </p>
 
 ---
