@@ -16,7 +16,7 @@ My focus is on neural networks, especially generative models like GANs, and I ex
 <tr>
 <td width="40%">
 
-<img src="https://tenor.com/view/bleach-gif-14737400919386922607"" width="100%">
+<img src="https://tenor.com/view/bleach-gif-14737400919386922607" width="100%">
 
 </td>
 
