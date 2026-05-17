@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/hi-gif-15713149880879377075' width="100%">
+  <img src="https://tenor.com/view/anime-typing-gif-14680553.gif" width="100%">
 </p>
 
 <h1 align="center">Hello, I'm Dulakshana 👋</h1>
@@ -14,13 +14,13 @@ My focus is on neural networks, especially generative models like GANs, and I ex
 
 <table>
 <tr>
-<td width="35%">
+<td width="40%">
 
-<img src="YOUR_LEFT_GIF_URL_HERE" width="100%">
+<img src="https://media.tenor.com/images/14737400919386922607/tenor.gif" width="100%">
 
 </td>
 
-<td width="65%">
+<td width="60%">
 
 &nbsp; ✦ Python Developer (Hobbyist)  
 <br>
@@ -77,7 +77,7 @@ My focus is on neural networks, especially generative models like GANs, and I ex
 <br>
 
 <p align="center">
-  <img src="YOUR_BOTTOM_GIF_URL_HERE" width="100%">
+  <img src="https://tenor.com/view/hi-gif-15713149880879377075.gif" width="100%">
 </p>
 
 <p align="center">
