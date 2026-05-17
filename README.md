@@ -52,7 +52,7 @@ My focus is on neural networks, especially generative models like GANs, and I ex
 ## Specialized Toolkit
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,opencv,html,css,docker,postgres,github,linux," />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,langchain,langgraph,fastapi,opencv,html,css,docker,postgres,github,linux,anaconda" />
   </a>
 </p>
 
