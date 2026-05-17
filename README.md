@@ -67,7 +67,7 @@ My focus is on neural networks, especially generative models like GANs, and I ex
 <br>
 
 <p align="center">
-  <img src="https://tenor.com/view/hi-gif-15713149880879377075.gif" width="100%">
+  <img src="https://tenor.com/view/hi-gif-15713149880879377075.gif" width="70%">
 </p>
 
 <p align="center">
