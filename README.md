@@ -40,34 +40,24 @@ My focus is on neural networks, especially generative models like GANs, and I ex
 
 <br>
 
-## 😎 What I Work With (Mostly)
+## My Statics
 
-### ✦ Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### ✦ Backend / Tools
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DULAKSHANA404&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### ✦ AI / ML
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DULAKSHANA404&layout=compact&theme=dark&hide_border=true&hide=html,css&cache_seconds=1800"/>
 
-<br>
+---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DULAKSHANA404&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DULAKSHANA404&layout=compact&theme=tokyonight" />
+## Specialized Toolkit
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,opencv,html,css,docker,postgres,github,linux," />
+  </a>
 </p>
 
 ---
+
 
 ## 🌸 Connect With Me
 
