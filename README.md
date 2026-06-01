@@ -5,9 +5,7 @@
 <h1 align="center">Hello, I'm Dulakshana 👋</h1>
 
 <p align="center">
-I am a technology enthusiast with a strong interest in Artificial Intelligence and Machine Learning.  
-I enjoy learning core programming and deep learning concepts and applying them in small projects.  
-My focus is on neural networks, especially generative models like GANs, and I explore AI through continuous hands-on experimentation
+Just a human being
 </p>
 
 <br>
