@@ -50,7 +50,7 @@ Just a human being
 ## Specialized Toolkit
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,opencv,html,css,docker,postgres,github,linux,ubuntu,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,fastapi,opencv,html,css,docker,postgres,github,linux,ubuntu,anaconda" />
   </a>
 </p>
 
