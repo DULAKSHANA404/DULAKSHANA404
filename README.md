@@ -20,11 +20,11 @@ Just a human being
 
 <td width="60%">
 
-&nbsp; ✦ Python Developer (Hobbyist)  
+&nbsp; ✦ Python and c++  
 <br>
 &nbsp; ✦ From Sri Lanka  
 <br>
-&nbsp; ✦ Machine Learning, Deep Learning & Agentic AI  
+&nbsp; ✦ Machine Learning, Deep Learning & Agentic AI and opengl 
 <br>
 &nbsp; ✦ Sinhala (native), English  
 <br>
